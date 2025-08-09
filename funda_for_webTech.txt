@@ -1,0 +1,24 @@
+_______________ >> for first time github configure into system 
+git config --global user.name "  "
+git config --global user.email "  "
+git config --global color.ui auto  --->> automatic color suggetions in github
+
+we need to make a remote connection for our application
+
+mandatory commands :
+
+>> git init 
+>> git remote add origin https://github.com/Dev-adityavishwa/1_Git_Demo.git  -->> successfull connection to editor to github
+ 
+>> Pull request -- git pull origin main  => isse readme.md vs code m pull ho gaya 
+>> git status   = to see the status of our application 
+
+>>what if vs code m file m change krne se github p change hoga ?
+>> Push command   
+>> git add .  = isse is folder ki all files github p push ho jayegi 
+
+
+
+
+
+
