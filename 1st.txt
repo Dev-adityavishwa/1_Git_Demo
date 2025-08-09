@@ -1,0 +1,47 @@
+servers / domain name : unique identifier
+          ->> Google , Amazon
+
+sub-domain name:   they are under the main domain name 
+     ->> gMeet 
+     ->> gMaps 
+     ->> gDrive
+     ->> gPhotos
+     ->> Gmail
+     ->> gChrome
+     ->> gPay
+     ->> aws.amazon
+     ->>meet.Google
+
+URL ->> 
+
+Top Level Domain(TLD)->>  same company 
+         Amazon.in
+         Amazon.com
+         Amazon.uk
+         Amazon.edu 
+         Amazon.org
+
+
+ ___________________________
+ Git >> Version Control
+ It is Distributed on Cloud
+ >> Collaboration
+ >> Tracking Changes
+ >> Recovery
+
+ Git >>
+ Github
+ Bigbuckket
+ GitLabs  
+
+
+-->> How to make a connection of vs code to github
+
+
+
+
+
+
+
+
+
