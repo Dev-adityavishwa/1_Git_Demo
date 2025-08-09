@@ -15,7 +15,15 @@ mandatory commands :
 
 >>what if vs code m file m change krne se github p change hoga ?
 >> Push command   
->> git add .  = isse is folder ki all files github p push ho jayegi 
+>> git add .  && 
+git commit -m "_any commit msg here "   &&
+git push  
+
+isse is folder ki all files github p push ho jayegi but ek new branch m >> master
+ab github open krke  " compare and pull " pr click krke dono ko merge kr skte hai
+isse main branch m bhi sb show hoga 
+now you can delete master branch 
+
 
 
 

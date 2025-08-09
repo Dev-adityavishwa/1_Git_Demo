@@ -1,0 +1,13 @@
+-- separate branch  : day1Branch
+
+command >> git checkout -b "new_bracnch name"
+
+
+
+
+
+
+
+
+
+
