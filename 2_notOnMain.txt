@@ -3,7 +3,7 @@
 >> git checkout -b "new_bracnch name"  >> this new branch will contain all the files of current folder 
 
 >>> switch to a branch
->> git checkout "branch_name"
+>> git cheupdatckout "branch_name"
 
 if you want to pull from day1Branch to main branch 
 >>go to github pull request 
